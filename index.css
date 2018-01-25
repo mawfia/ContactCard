@@ -1,0 +1,63 @@
+
+input{
+    display: block;
+}
+
+fieldset{
+    border: none;
+    padding-right: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+form{
+    width: 240px;
+}
+
+input{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+textarea{
+    margin-top: 10px;
+    width: 200px;
+}
+
+button{
+    background-color: white;
+    border: black solid 1px;
+    color: black;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    cursor: pointer;
+    vertical-align: top;
+    margin: 15px 0px 0px 0px;
+}
+
+#contacts{
+    width: 400px;
+    margin-left: 50px;
+    padding-left: 100px;
+    display: inline-block;
+}
+
+.contact{
+    width: 300px;
+    height: 150px;
+    padding-top: 20px;
+    margin-top: 20px;
+    outline: black solid 1px;
+}
+
+.contact h2, h4{
+    text-align: center;
+}
+
+.description{
+    display: none;
+    padding: 0px 20px 0px 20px;
+}
